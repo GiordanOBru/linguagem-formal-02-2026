@@ -1,4 +1,4 @@
-# Linguagem Formal (2026.2)
+# Linguagens Formais (2026.2)
 
 Repositório com as atividades práticas da disciplina de Linguagem Formal.
 
